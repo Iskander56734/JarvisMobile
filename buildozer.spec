@@ -2,12 +2,13 @@
 title = Jarvis AI
 package.name = jarvisai
 package.domain = org.iskander
-version = 1.0
+version = 1.1
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 # НАМЕРТВО СШИВАЕМ ПИТОН И СИСТЕМНЫЕ ЗАВИСИМОСТИ МИКРОФОНА И ЗВУКА ДЖАРВИСА!
-requirements = python3,kivy,pygame,speech_recognition,requests,edge-tts
+requirements = python3,kivy,requests
+
 
 orientation = portrait
 fullscreen = 1
