@@ -2,7 +2,7 @@
 title = Jarvis AI
 package.name = jarvisai
 package.domain = org.iskander
-version = 1.3
+version = 1.6
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
